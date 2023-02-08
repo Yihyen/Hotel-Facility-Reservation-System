@@ -1,0 +1,8 @@
+CREATE TABLE Facility (
+facility_id		varchar(4)	NOT NULL,
+facility_type 	        varchar(10),
+facility_name	        varchar(20),
+price			number(6,2),
+PRIMARY KEY (facility_id)
+);
+

@@ -1,0 +1,15 @@
+CREATE TABLE Reservation (
+reservation_no	varchar(11)	NOT NULL,
+guest_id	varchar(11),
+facility_id	varchar(4),
+guest_pax	number(2),
+booking_date	date,
+invoice_no	varchar(7),
+service_no	varchar(14),	
+PRIMARY KEY (reservation_no),
+FOREIGN KEY (guest_id) REFERENCES Guest (guest_id),
+FOREIGN KEY (facility_id) REFERENCES Facility (facility_id),
+FOREIGN KEY (invoice_no) REFERENCES Invoice (invoice_no),
+FOREIGN KEY (service_no) REFERENCES CustomerService (service_no)
+);
+

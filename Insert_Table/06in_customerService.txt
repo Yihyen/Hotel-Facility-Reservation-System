@@ -1,0 +1,28 @@
+Insert into CustomerService values('20190424FOS','The Table Tennis racquet is broken ','Change a new racquet');
+Insert into CustomerService values('20190822MS','The facility ceiling is dripping','Call the mechanical to repair it');
+Insert into CustomerService values('20191223MS','The mic in karaoke room is not functioning well','Call the technician to fix it');
+Insert into CustomerService values('20191231MS','The court is dirty','Clean the court often');
+Insert into CustomerService values('20200901MS','The facility hot water function failure','Call the mechanical to repair it');
+Insert into CustomerService values('20200805FOS','Wrong food delivery','Call for change the meals');
+Insert into CustomerService values('20200803MS','The facility tv is not working','Call the mechanical to check the problem');
+Insert into CustomerService values('20200812FOS','Some meals are missing during delivery','Call for delivery the missing meals');
+Insert into CustomerService values('20200821MS','The mic is not functioning','Call the mechanical to repair it');
+Insert into CustomerService values('20200824CS','The floor is dirty','Call the cleaner to clean it');
+Insert into CustomerService values('20200825EES','The light is not stable','Call the electric mechanical to fix it');
+Insert into CustomerService values('20200825CS','The swimming pool is dirty','Clean the swimming pool');
+Insert into CustomerService values('20200825FOS','The food preparation is slow','Speed up food preparation');
+Insert into CustomerService values('20200828EES','The electric was destroyed.','Call the mechanical to fix it');
+Insert into CustomerService values('20200831FOS','The food preparation is slow','Speed up food preparation');
+Insert into CustomerService values('20200910CS','The badminton racquet is old.','Change the racquet');
+Insert into CustomerService values('20200912MS','The facility aircon is not functioning','Call the technician to fix it');
+Insert into CustomerService values('20200914FOS','The facility food menu have not update','Update the new product on the menu');
+Insert into CustomerService values('20200915CS','The swimming pool got bird poop','Clean the swimming pool');
+Insert into CustomerService values('20200918MS','The facility light is not functioning','Call the electric mechanical to repair it');
+
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+CREATE TABLE InvoicePayment (
+payment_id		varchar(10)	NOT NULL,
+invoice_no 	        varchar(7),
+receipt_no		varchar(7),
+creation_time	        varchar(5),
+creation_date	        date,
+PRIMARY KEY (payment_id),
+FOREIGN KEY (invoice_no) REFERENCES Invoice (invoice_no),
+FOREIGN KEY (receipt_no) REFERENCES Payment (receipt_no)
+);

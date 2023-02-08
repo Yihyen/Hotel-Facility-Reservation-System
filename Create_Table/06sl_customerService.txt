@@ -1,0 +1,6 @@
+CREATE TABLE CustomerService (
+service_no	varchar(14)	NOT NULL,
+cust_problem	varchar(50),
+cust_request	varchar(50),
+PRIMARY KEY (service_no)
+);

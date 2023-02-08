@@ -1,0 +1,8 @@
+CREATE TABLE Invoice (
+invoice_no		varchar(7)	NOT NULL,
+total_amount		number(6,2),
+facility_charge		number(6,2),
+receipt_no		varchar(7),
+PRIMARY KEY (invoice_no),
+FOREIGN KEY (receipt_no) REFERENCES Payment (receipt_no)
+);

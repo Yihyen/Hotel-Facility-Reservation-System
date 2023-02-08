@@ -1,0 +1,7 @@
+CREATE TABLE Payment (
+receipt_no		varchar(7)	NOT NULL,
+pay_date		date,
+pay_method		varchar(15),
+pay_amount		number(6,2),
+PRIMARY KEY (receipt_no)
+);

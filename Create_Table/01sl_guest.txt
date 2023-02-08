@@ -1,0 +1,8 @@
+CREATE TABLE Guest (
+guest_id	varchar(12)	NOT NULL,
+name		varchar(40),
+phone_no	varchar(12),
+NRIC		varchar(14),
+email		varchar(40),
+PRIMARY KEY (guest_id)
+);

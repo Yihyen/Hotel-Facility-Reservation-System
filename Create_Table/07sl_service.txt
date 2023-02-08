@@ -1,0 +1,11 @@
+CREATE TABLE Service (
+service_typeID	varchar(20)	NOT NULL,
+service_type	varchar(30),	
+service_time	varchar(5),
+service_date 	date,
+service_no	varchar(14),
+guest_id	varchar(11),
+PRIMARY KEY (service_typeID),
+FOREIGN KEY (service_no) REFERENCES CustomerService (service_no),
+FOREIGN KEY (guest_id) REFERENCES Guest (guest_id)
+);

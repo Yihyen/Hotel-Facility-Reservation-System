@@ -1,0 +1,242 @@
+1.
+Insert into Invoice values('I000001',40.00,10.00,'R000001');
+
+
+2.
+Insert into Invoice values('I000002',40.00,10.00,'R000002');
+
+
+
+3.
+Insert into Invoice values('I000003',70.00,70.00,'R000003');
+
+
+
+4.
+Insert into Invoice values('I000004',30.00,15.00,'R000004');
+
+
+5. 
+Insert into Invoice values('I000005',70.00,70.00,'R000005');
+
+
+
+6.
+Insert into Invoice values('I000006',40.00,10.00,'R000006');
+
+
+
+7.
+Insert into Invoice values('I000007',20.00,5.00,'R000007');
+
+
+8.
+Insert into Invoice values('I000008',40.00,10.00,'R000008');
+
+
+9. 
+Insert into Invoice values('I000009',20.00,10.00,'R000009');
+
+
+10.
+Insert into Invoice values('I000010',70.00,70.00,'R000010');
+
+
+
+11. 
+Insert into Invoice values('I000011',30.00,15.00,'R000011');
+
+
+12.
+Insert into Invoice values('I000012',90.00,15.00,'R000012');
+
+
+13. 
+Insert into Invoice values('I000013',10.00,5.00,'R000013');
+
+
+
+14.
+Insert into Invoice values('I000014',20.00,10.00,'R000014');
+
+
+15.
+Insert into Invoice values('I000015',20.00,10.00,'R000015');
+
+
+16.
+Insert into Invoice values('I000016',20.00,10.00,'R000016');
+
+
+
+17.
+Insert into Invoice values('I000017',10.00,10.00,'R000017');
+
+
+
+18. 
+Insert into Invoice values('I000018',90.00,15.00,'R000018');
+
+
+19.
+Insert into Invoice values('I000019',20.00,10.00,'R000019');
+
+
+
+20.
+Insert into Invoice values('I000020',70.00,70.00,'R000020');
+
+
+21.
+Insert into Invoice values('I000021',30.00,5.00,'R000021’);
+  
+
+
+22.
+Insert into Invoice values('I000022',40.00,10.00,'R000022');
+
+
+
+23.
+Insert into Invoice values('I000023',40.00,10.00,'R000023');
+
+
+24.
+Insert into Invoice values('I000024',10.00,5.00,'R000024');
+
+
+25.
+Insert into Invoice values('I000025',70.00,70.00,'R000025');
+
+
+
+26.
+Insert into Invoice values('I000026',70.00,70.00,'R000026');
+
+
+27.
+Insert into Invoice values('I000027',5.00,5.00,'R000027');
+
+
+
+28.
+Insert into Invoice values('I000028',90.00,15.00,'R000028');
+
+
+29.
+Insert into Invoice values('I000029',20.00,5.00,'R000029');
+
+
+30.
+Insert into Invoice values('I000030',60.00,15.00,'R000030');
+
+
+31.
+Insert into Invoice values('I000031',10.00,5.00,'R000031');
+
+
+32.
+Insert into Invoice values('I000032',30.00,15.00,'R000032');
+
+33.
+Insert into Invoice values('I000033',40.00,10.00,'R000033');
+
+
+
+34. 
+Insert into Invoice values('I000034',60.00,15.00,'R000034');
+
+
+35.
+Insert into Invoice values('I000035',70.00,70.00,'R000035');
+
+
+36.
+Insert into Invoice values('I000036',70.00,70.00,'R000036');
+
+
+37.
+Insert into Invoice values('I000037',10.00,5.00,'R000037');
+
+
+
+38.
+Insert into Invoice values('I000038',70.00,70.00,'R000038');
+
+
+
+39.
+Insert into Invoice values('I000039',40.00,10.00,'R000039');
+
+
+40.
+Insert into Invoice values('I000040',60.00,15.00,'R000040');
+
+
+41.
+Insert into Invoice values('I000041',20.00,10.00,'R000041');
+
+
+42.
+Insert into Invoice values('I000042',70.00,70.00,'R000042');
+
+
+43.
+Insert into Invoice values('I000043',10.00,5.00,'R000043');
+
+
+44.
+Insert into Invoice values('I000044',10.00,5.00,'R000044');
+
+
+45.
+Insert into Invoice values('I000045',20.00,5.00,'R000045');
+
+
+
+46.
+Insert into Invoice values('I000046',70.00,70.00,'R000046');
+
+
+
+47.
+Insert into Invoice values('I000047',40.00,10.00,'R000047');
+
+
+48.
+Insert into Invoice values('I000048',90.00,15.00,'R000048');
+
+
+49.
+Insert into Invoice values('I000049',10.00,5.00,'R000049');
+
+
+50.
+Insert into Invoice values('I000050',60.00,10.00,'R000050');
+
+
+51.
+Insert into Invoice values('I000051',70.00,70.00,'R000051');
+
+
+52.
+Insert into Invoice values('I000052',30.00,5.00,'R000052');
+
+
+53.
+Insert into Invoice values('I000053',40.00,10.00,'R000053');
+
+
+54.
+Insert into Invoice values('I000054',10.00,5.00,'R000054');
+
+
+55.
+Insert into Invoice values('I000055',10.00,5.00,'R000055');
+
+
+56.
+Insert into Invoice values('I000056',30.00,15.00,'R000056');
+
+
+
